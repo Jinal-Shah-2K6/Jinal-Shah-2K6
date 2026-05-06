@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Jinal-Shah-2K6/Jinal-Shah-2K6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ..<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Jinal+Shah+%F0%9F%91%8B;Web+Developer+%F0%9F%9A%80;I+build+things+for+the+web+%F0%9F%8C%90;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </h1>
 
@@ -77,7 +68,7 @@ I'm **Jinal Shah**, a passionate **Web Developer** who loves crafting clean, res
 | 🌐 Coming Soon | First web project | HTML / CSS / JS | — |
 | ⚛️ Coming Soon | React application | React | — |
 
-*⭐ Check out my pinned repositories below for my latest work!*
+*⭐ Check out my repositories below for my latest work!*
 
 ---
 
@@ -97,10 +88,4 @@ I'm **Jinal Shah**, a passionate **Web Developer** who loves crafting clean, res
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&text=Happy+Coding!&fontSize=24&fontColor=white&animation=fadeIn" alt="footer"/>
-</p>.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
