@@ -12,7 +12,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙋‍♂️ About Me
 
 > *"First, solve the problem. Then, write the code."*
 
@@ -47,8 +47,7 @@ I'm **Jinal Shah**, a passionate **Web Developer** who loves crafting clean, res
 
 ---
 
-## 📬 Connect With Me
-
+## 👨‍💻 Connect With Me
 <p align="center">
   <a href="https://github.com/Jinal-Shah-2K6">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
