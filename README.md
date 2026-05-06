@@ -47,31 +47,6 @@ I'm **Jinal Shah**, a passionate **Web Developer** who loves crafting clean, res
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinal-Shah-2K6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Jinal's GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinal-Shah-2K6&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jinal-Shah-2K6&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech | Demo |
-|---------|-------------|------|------|
-| 🌐 Coming Soon | First web project | HTML / CSS / JS | — |
-| ⚛️ Coming Soon | React application | React | — |
-
-*⭐ Check out my repositories below for my latest work!*
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
